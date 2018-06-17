@@ -47,4 +47,10 @@ Keep in mind that each letter of the alphabet has a position, starting at positi
 
 ![alphabet-number-position](https://codeclubprojects.org/en-GB/python/secret-messages/images/messages-array.png)
 
+Let's see how we can get a specific letter from your variable **alphabet**, for example, if you want to "extract" the letter 'c' write below the declaration of the alphabet variable the following code :
+
+```
+print(alphabet[2])
+```
+
 
