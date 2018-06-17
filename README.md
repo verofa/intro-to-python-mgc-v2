@@ -10,8 +10,6 @@ In this project you will also learn programming concepts as:
 - The modulus operator (%).
 - **for** loops;
 
-This project introduces iteration (looping) over a text string.
-
 ## Prerequisites
 
 Before get on with it to successfully complete this tutorial in a Microsoft Windows Operating System, you must do the following:
