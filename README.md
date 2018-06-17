@@ -1,14 +1,14 @@
-# Introduction to Python Version 2 - Creating an application to send and receive secret messages
+# Introduction to Python Version 2
+## Creating an application to send and receive secret messages
 
 In this project, you will learn how to make your own encryption program using Python (that is an interpreted high-level programming language for general-purpose programming) to send and receive secret messages with a friend. 
 
 In this project you will also learn programming concepts as:
 
-    Iteration (looping) over a string variable;
-    The find() method;
-    The modulus operator (%).
-    for loops;
-
+- Iteration (looping) over a string variable;
+- The find() method;
+- The modulus operator (%).
+**for** loops;
 
 This project introduces iteration (looping) over a text string.
 
