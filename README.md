@@ -8,7 +8,7 @@ In this project you will also learn programming concepts as:
 - Iteration (looping) over a string variable;
 - The find() method;
 - The modulus operator (%).
-**for** loops;
+- **for** loops;
 
 This project introduces iteration (looping) over a text string.
 
