@@ -40,3 +40,5 @@ Let’s start by encrypting the letter **'E'** using a left shift of 3 as the ke
 ### Step 3 - Encrypting letters using Python.
 
 Create a file in Visual Studio Code name it 'main.py' and write it out as an alphabet variable.
+
+![alphabet-variable](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/alphabet.PNG)
