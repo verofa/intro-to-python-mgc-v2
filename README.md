@@ -16,10 +16,10 @@ Before get on with it to successfully complete this tutorial in a Microsoft Wind
 
 1.- Download and install the [Visual Studio Code](https://go.microsoft.com/fwlink/?LinkID=534107) for Windows.
 
-2.- Install a version of Python 3 (for which this tutorial is written), download from (python.org)[https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe]
+2.- Install a version of Python 3 (for which this tutorial is written), download from [python.org](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
 
-3.- Install the extension from the (VS Code marketplace)[https://marketplace.visualstudio.com/items?itemName=ms-python.python]
+3.- Install the extension from the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-4.- Make sure the location of your Python interpreter is included in your PATH environment variable. You can check this by running path at the command prompt. If the Python interpreter's folder is not included, open Windows Settings, search for "environment", select Edit environment variables for your account, then edit the Path variable to include that folder (C:\Program Files (x86)\Python36-32).
+4.- Make sure the location of your Python interpreter is included in your **PATH** environment variable. You can check this by running **path** at the command prompt. If the Python interpreter's folder is not included, open Windows Settings, search for "environment", select Edit environment variables for your account, then edit the Path variable to include that folder (C:\Program Files (x86)\Python36-32).
 	
 ## Time to start coding!
