@@ -30,7 +30,7 @@ The Caesar cipher is one of the oldest and simplest forms of encrypting a messag
 
 A cipher is a type of secret code, where each letter in the original message (called the plaintext) is replaced with a letter corresponding to a certain number of letters shifted up or down in the alphabet.
 
-Let’s start by encrypting the letter **'E'** using a left shift of three, so that (for example) each occurrence of **E** in the plaintext becomes **B**.
+Let’s start by encrypting the letter **'E'** using a left shift of 3 as the key (but you can use any number you like), so that (for example) each occurrence of **E** in the plaintext becomes **B**.
 
 
 ![Caesar Cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/640px-Caesar_cipher_left_shift_of_3.svg.png)
