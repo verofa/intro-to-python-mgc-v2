@@ -53,7 +53,7 @@ Let's see how we can get a specific letter from your variable **alphabet**, for 
 print(alphabet[2])
 ```
 
-It should look more an less like this:
+It should look more or less like this:
 
 ![Printing-letter-c](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Printing-letter-c.PNG)
 
