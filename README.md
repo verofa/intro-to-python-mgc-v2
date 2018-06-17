@@ -23,3 +23,9 @@ Before get on with it to successfully complete this tutorial in a Microsoft Wind
 4.- Make sure the location of your Python interpreter is included in your **PATH** environment variable. You can check this by running **path** at the command prompt. If the Python interpreter's folder is not included, open Windows Settings, search for "environment", select Edit environment variables for your account, then edit the Path variable to include that folder (C:\Program Files (x86)\Python36-32).
 	
 ## Time to start coding!
+
+### Step 1 - Understanding the Caesar cipher method or algorithm for performing encryption or decryption of a message.
+
+The Caesar cipher is one of the oldest and simplest forms of encrypting a message, and its name come from Julius Caesar that was popular leader of the Roman Republic. 
+
+A cipher is a type of secret code, where each letter in the original message (which in cryptography is called the plaintext) is replaced with a letter corresponding to a certain number of letters shifted up or down in the alphabet.
