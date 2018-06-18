@@ -95,3 +95,10 @@ print(position)
 In the following example, the user is entering the character 'e' and the program is showing the position 4 as a result of the execution of it :
 
 ![Encrypting-character](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character.gif)
+
+Now that you know the position of the original character (letter) to encrypt it, you should add the **key** (remember its value is 3) to that position creating a new variable (**newPosition**) to store the position of the encrypted character.
+
+```python
+newPosition = position + key
+```
+
