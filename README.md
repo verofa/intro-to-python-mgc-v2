@@ -125,10 +125,12 @@ Now you are almost there yuhu!! :). The last thing that remains to be done is to
 
 ```python
 newCharacter = alphabet[newPosition]
-print(newCharacter)
+print("The new character is:", newCharacter)
 ```
 
 Let's see what your program is doing!
 
 
 ![Encrypting-character-e](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character-e.gif)
+
+It is almost done, well done! :). The user (or your friend in this case) do not need to know the position of the characters so you can also remove some of your print statements, just printing the new character at the end. What lines number do you need to delete to do it?
