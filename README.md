@@ -57,4 +57,8 @@ It should look more or less like this:
 
 ![Printing-letter-c](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Printing-letter-c.PNG)
 
+Now it is time to know what those two lines are doing. It is simple to run main.py with Python. Right-click in the editor and select **Run Python File in Terminal** (which saves the file automatically ;) ):
+
+![Executing-Code-VSC.gif]()
+
 
