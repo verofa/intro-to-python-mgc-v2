@@ -158,9 +158,10 @@ for character in message:
 
 What happens when you run your program?
 
-Time to finish your program to encrypt a message ;), for doing that you have to add each encrypted character to your **newMessage** variable adding this line in your code:
+Time to finish your program to encrypt a message ;), for doing that you have to add each encrypted character to your **newMessage** variable adding these lines in your code:
 
 ```python
 newMessage += newCharacter
+print(newMessage)
 ```
 
