@@ -195,3 +195,6 @@ Congratulations! now you can encrypt messages to chat with your friends using se
 ![Encrypting-message](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-message.gif)
 
 
+## Challenge: Encrypting and decrypting messages
+
+This is just the beginning, now that you know how to encrypt some messages, make  your own program to decrypt it, good luck and never stop learning! :).
