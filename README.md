@@ -94,3 +94,4 @@ print(position)
 
 In the following example, the user is entering the character 'e' and the program is showing the position 4 as a result of the execution of it :
 
+![Encrypting-character](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character.gif)
