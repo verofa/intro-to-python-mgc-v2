@@ -134,3 +134,25 @@ Let's see what your program is doing!
 ![Encrypting-character-e](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character-e.gif)
 
 It is almost done, well done! :). The user (or your friend in this case) do not need to know the position of the characters so you can also remove some of your print statements, just printing the new character at the end. What lines number do you need to delete to do it?
+
+
+### Step 4: Encrypting entire messages with Python
+
+Now that you know how encryption works, it is time to encrypt a entire message using Python, so let's do it!
+
+You have to change a couple of lines of your code to store the entire message and not just one character:
+
+```python
+alphabet='abcdefghijklmnopqrstuvwxyz'
+key = 3
+newMessage = ''
+
+message = input('Please enter a message: ')
+
+for character in message:
+    position = alphabet.find(character)
+    newPosition = (position + key) % 26
+    newCharacter = alphabet[newPosition]
+    print("The new character is: ", newCharacter)
+```
+
