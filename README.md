@@ -78,4 +78,17 @@ alphabet='abcdefghijklmnopqrstuvwxyz'
 key = 3
 ```
 
+Now you are ready to make your first program to encrypt a letter, adding the following lines to your code.
+
+This line, is to ask to the person that is using the program (called **user**) to enter a character (single letter):
+```python 
+character = input('Please enter a character: ')
+```
+
+Then you have to calculate the position of that character, using the method **find** and then you are going to print it in the screen to know its value as shown bellow:
+
+```python
+position = alphabet.find(character)
+print(position)
+```
 
