@@ -192,4 +192,6 @@ print('The new encrypted message is: ', newMessage)
 
 Congratulations! now you can encrypt messages to chat with your friends using secret messages using your own program in Python!
 
+![Encrypting-message](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-message.gif)
+
 
