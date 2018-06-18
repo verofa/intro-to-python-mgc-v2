@@ -49,7 +49,7 @@ Keep in mind that each letter of the alphabet has a position, starting at positi
 
 Let's see how we can get a specific letter from your variable **alphabet**, for example, if you want to "extract" the letter 'c' write below the declaration of the alphabet variable the following code :
 
-```
+```python
 print(alphabet[2])
 ```
 
@@ -63,7 +63,7 @@ Now it is time to know what those two lines are doing. It is simple to run 'main
 
 Add the following lines to your code:
 
-```
+```python
 print(alphabet[8])
 print(alphabet[0])
 print(alphabet[14])
