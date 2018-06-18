@@ -131,3 +131,4 @@ print(newCharacter)
 Let's see what your program is doing!
 
 
+![Encrypting-character-e](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character-e.gif)
