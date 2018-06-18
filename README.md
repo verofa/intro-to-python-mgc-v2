@@ -107,3 +107,5 @@ newPosition = position + key
 In the example above, letter ‘e’ is at position 4. To encrypt it, you add the key (3), giving 7 as the new position that will be used to encrypt the character (that correspond to the letter 'h'). But what happens when you try to get the new position of the letter ‘z’?
 
 ![Encrypting-character-z](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character-z.gif)
+
+Notice how the newPosition is 28, and there are not 28 letters in the alphabet!, so sort it out you can use a **%** to tell the **new position** to go back to position 0 once it gets to position 26.
