@@ -59,6 +59,6 @@ It should look more or less like this:
 
 Now it is time to know what those two lines are doing. It is simple to run main.py with Python. Right-click in the editor and select **Run Python File in Terminal** (which saves the file automatically ;) ):
 
-![Executing-Code-VSC.gif]()
+![Executing-Code-VSC](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Executing-Code-VSC.gif])
 
 
