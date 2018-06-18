@@ -127,3 +127,7 @@ Now you are almost there yuhu!! :). The last thing that remains to be done is to
 newCharacter = alphabet[newPosition]
 print(newCharacter)
 ```
+
+Let's see what your program is doing!
+
+![Encrypting-character-e](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character-e.gif)
