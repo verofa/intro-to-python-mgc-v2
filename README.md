@@ -102,3 +102,4 @@ Now that you know the position of the original character (letter) to encrypt it,
 newPosition = position + key
 ```
 
+![Encrypting-character-np](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character-np.gif)
