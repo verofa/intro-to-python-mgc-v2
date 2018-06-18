@@ -170,3 +170,22 @@ Run your program, should look something like this:
 
 ![Encrypting-character-by-character](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character-by-character.gif)
 
+You can notice that every time that is encrypting a character is also printing part of the message, if you just want to see the final message you have to delete the spaces before the last print statement, like this, the encrypted message will only be displayed once at the end. 
+
+You can also delete (or comment using the **#** at the beggining of the line) the code for printing the character positions and add to the last print statement a phrase to know it correspond to the new message, like this:
+
+```python
+alphabet='abcdefghijklmnopqrstuvwxyz'
+key = 3
+newMessage = ''
+
+message = input('Please enter a message: ')
+
+for character in message:
+    position = alphabet.find(character)
+    newPosition = (position + key) % 26
+    newCharacter = alphabet[newPosition]
+    #print("The new character is: ", newCharacter)
+    newMessage += newCharacter
+print('The new encrypted message is: ', newMessage)
+```
