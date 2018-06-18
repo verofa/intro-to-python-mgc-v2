@@ -140,7 +140,7 @@ It is almost done, well done! :). The user (or your friend in this case) do not 
 
 Now that you know how encryption works, it is time to encrypt a entire message using Python, so let's do it!
 
-You have to change a couple of lines of your code to store the entire message and not just one character:
+You have to change a couple of lines of your code to store the entire message and not just one character. Also, add a **for loop** to your code, and **indent** (four spaces before the beginning of each line) the rest of the code so that it is repeated for each character in the message as shown bellow:
 
 ```python
 alphabet='abcdefghijklmnopqrstuvwxyz'
