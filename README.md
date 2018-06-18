@@ -109,3 +109,14 @@ In the example above, letter ‘e’ is at position 4. To encrypt it, you add th
 ![Encrypting-character-z](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character-z.gif)
 
 Notice how the newPosition is 28, and there are not 28 letters in the alphabet!, so sort it out you can use a **%** to tell the **new position** to go back to position 0 once it gets to position 26.
+
+```python
+alphabet='abcdefghijklmnopqrstuvwxyz'
+key = 3
+
+character = input('Please enter a character: ')
+position = alphabet.find(character)
+print(position)
+newPosition = (position + key) % 26
+print(newPosition)
+```
