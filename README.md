@@ -197,4 +197,4 @@ Congratulations! now you can encrypt messages to chat with your friends using se
 
 ## Challenge: Encrypting and decrypting messages
 
-This is just the beginning, now that you know how to encrypt some messages, make  your own program to decrypt it, good luck and never stop learning! :).
+This is just the beginning, now that you know how to encrypt some messages, make  your own program to decrypt it, good luck and never stop learning, because knowledge is the ability to understand how everything around you works (and also how to encrypt and decrypt messages :) )
