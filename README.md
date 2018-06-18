@@ -71,6 +71,11 @@ print(alphabet[14])
 
 What is it the output? (You can delete the print statements once you have tried this out)
 
-At this point you have learned how to work with an array and extract the value that you want from it.
+At this point you have learned how to work with an array (the values that store the variable **alphabet**) and extract the value that you want to use from it. Therefore, the next step to encrypt your message is to choose and configure the key you will need to encrypt your messages. For doing that, you will need to store the secret key in a variable as well:
+
+```python
+alphabet='abcdefghijklmnopqrstuvwxyz'
+key = 3
+```
 
 
