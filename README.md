@@ -165,3 +165,8 @@ newMessage += newCharacter
 print(newMessage)
 ```
 
+Run your program, should look something like this:
+
+
+![Encrypting-character-by-character](https://raw.githubusercontent.com/verofa/intro-to-python-mgc-v2/master/Encrypting-character-by-character.gif)
+
