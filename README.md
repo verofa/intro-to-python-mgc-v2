@@ -69,6 +69,8 @@ print(alphabet[0])
 print(alphabet[14])
 ```
 
-What it is the output?
+What is it the output? (You can delete the print statements once you have tried this out)
+
+At this point you have learned how to work with an array and extract the value that you want from it.
 
 
